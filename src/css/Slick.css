@@ -1,0 +1,14 @@
+.slick{
+    display: flex;
+    align-items:start;
+    justify-content: center;
+    gap: 5px;
+    padding: 10px;
+    margin: 50px 0px;
+}
+.description >h3{
+    font-size: 40px ;
+}
+.description > p{
+    font-size: 20px ;
+}

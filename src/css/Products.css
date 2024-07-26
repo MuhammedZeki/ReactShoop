@@ -1,0 +1,22 @@
+.products{
+    flex-wrap: wrap;
+    width: 100%;
+    padding: 10px 20px;
+}
+.paginate{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.paginate li{
+    list-style: none;
+    margin: 5px;
+    padding: 5px;
+    color: #764ABC;
+    font-size: 20px;
+    cursor: pointer;
+}
+.propag{
+    width: 80%;
+    padding: 10px 20px;
+}
